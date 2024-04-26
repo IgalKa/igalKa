@@ -4,7 +4,7 @@
 ![Banner](https://i.imgur.com/cuRjPT5.png)
 
 
-👩‍💻 I'm a 2nd year Computer Science student
+👩‍💻 I'm a 3rd year Computer Science student
 
 
 😄 I'm seeking a position as a Software Engineer
